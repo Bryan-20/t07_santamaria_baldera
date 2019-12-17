@@ -3,4 +3,4 @@ trabajo nro 07 Bucles en python
 
 # Integrantes
 # SANTAMARIA BALDERA BRYAN
-# VANEZA VAZQUES TORRES
+# VANEZA VASQUEZ TORRES
