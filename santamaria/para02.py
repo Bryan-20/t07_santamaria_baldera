@@ -4,4 +4,5 @@ n=0
 while(n<=75):
     print(n)
     n=n+5
+
 #fin_while
